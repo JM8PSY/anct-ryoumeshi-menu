@@ -8,3 +8,14 @@
 
 # ファイル構造
 ファイルは(西暦)>(月)>week_(何週目).jsonという形で保存してます．
+
+# make_a_calenderの使い方
+## 環境
+- VSCode
+- DevContainer拡張機能
+- Docker
+
+## やりかた
+普通にリビルドして起動したらできると思います．
+ただのpythonなので，ローカルの実行環境でできると思います・・・たぶん．
+使う時はrequirements.txtをinstallしていただきまして使っていただければ．
